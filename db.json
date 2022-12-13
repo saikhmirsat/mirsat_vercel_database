@@ -53,6 +53,17 @@
       "description": "this is my fifth feed"
     }
   ],
+  "RegisterYoox": [
+    {
+      "id": 1,
+      "firtName": "Saikh",
+      "lastName": "Mirsat",
+      "email": "saikhmirsat@gmail.com",
+      "password": "12345",
+      "mobile": 7008108577,
+      "dob": "06/05/1999"
+    }
+  ],
   "yooxData": [
     {
       "id": 1,
