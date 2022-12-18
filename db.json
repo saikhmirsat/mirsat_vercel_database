@@ -78,7 +78,7 @@
   "yooxData": [
     {
       "id": 1,
-      "whom": "women",
+      "for_whom": "women",
       "category": "clothing",
       "title": "STELLA McCARTNEY",
       "type": "Sweaters",
@@ -98,7 +98,7 @@
     },
     {
       "id": 2,
-      "whom": "women",
+      "for_whom": "women",
       "category": "jwellery",
       "title": "STELLA McCARTNEY",
       "type": "Sweaters",
