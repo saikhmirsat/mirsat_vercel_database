@@ -297,6 +297,33 @@
       "id": 15
     }
   ],
+  "sportszoneuser": [
+    {
+      "id": 1,
+      "email": "saikhmirsat@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "email": "masai@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "sportszoneadmin": [
+    {
+      "id": 1,
+      "email": "saikhmirsat@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "email": "masai@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "sportszonecart": [
+    {}
+  ],
   "sportszone": [
     {
       "id": 1,
