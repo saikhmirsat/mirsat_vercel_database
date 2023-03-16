@@ -2876,5 +2876,20 @@
       "booked": false
     }
   ],
-  "users": []
+  "users": [
+    {
+      "Username": "arshu",
+      "Email": "arshu@gmail.com",
+      "Password": "1234",
+      "RepeatPassword": "1234",
+      "id": 1
+    },
+    {
+      "Username": "saikh",
+      "Email": "saikh@gmail.com",
+      "Password": "1234",
+      "RepeatPassword": "1234",
+      "id": 1
+    }
+  ]
 }
