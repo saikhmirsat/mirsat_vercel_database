@@ -2881,7 +2881,6 @@
     }
   ],
   "hotels": [
-   
     {
       "id": 1,
       "category": "Family",
@@ -3013,6 +3012,181 @@
       "capacity": "4",
       "cost": "5000",
       "booked": true
+    }
+  ],
+  "datas": [
+    {
+      "_id": "649c9a3ae2b89d87cd6b0fd0",
+      "createDate": "06/07/23",
+      "name": "Saikh",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 55,
+      "Target_achieved_calories_burned": 66,
+      "__v": 0
+    },
+    {
+      "_id": "649c9b34ab014c0d5e0ceb87",
+      "createDate": "06/07/23",
+      "name": "Saikh",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 55,
+      "Target_achieved_calories_burned": 66
+    },
+    {
+      "_id": "649d024a0720860711d6b774",
+      "createDate": "06/07/23",
+      "name": "kkkk",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 55,
+      "Target_achieved_calories_burned": 660,
+      "user": "649c9351f6fb5855bcb796d5"
+    },
+    {
+      "_id": "649d02530720860711d6b776",
+      "createDate": "06/07/23",
+      "name": "kkkk",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 55,
+      "Target_achieved_calories_burned": 100,
+      "user": "649c9351f6fb5855bcb796d5"
+    },
+    {
+      "_id": "649d03ce38a024dfd5181dcf",
+      "createDate": "06/07/23",
+      "name": "raja",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 550,
+      "Target_achieved_calories_burned": 0,
+      "user": "649d031b38a024dfd5181dca"
+    },
+    {
+      "_id": "649d39790bd3bc25005f769d",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 550,
+      "Target_achieved_calories_burned": 0,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d48650bd3bc25005f77cf",
+      "createDate": "2023-06-30",
+      "name": "rani s",
+      "Total_calories_intake": 233,
+      "Target_calories_intake_value": 4,
+      "Target_achieved_calories_intake": 21,
+      "Total_calories_burned": 88,
+      "Target_calories_burned": 99,
+      "Target_achieved_calories_burned": 22,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d48770bd3bc25005f77d1",
+      "createDate": "2023-06-30",
+      "name": "rani s",
+      "Total_calories_intake": 23,
+      "Target_calories_intake_value": 44,
+      "Target_achieved_calories_intake": 21,
+      "Total_calories_burned": 53,
+      "Target_calories_burned": 12,
+      "Target_achieved_calories_burned": 34,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d497d0bd3bc25005f77e9",
+      "createDate": "2023-07-06",
+      "name": "rani s",
+      "Total_calories_intake": 12,
+      "Target_calories_intake_value": 44,
+      "Target_achieved_calories_intake": 3,
+      "Total_calories_burned": 55,
+      "Target_calories_burned": 33,
+      "Target_achieved_calories_burned": 22,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d497f0bd3bc25005f77eb",
+      "createDate": "2023-07-06",
+      "name": "rani s",
+      "Total_calories_intake": 12,
+      "Target_calories_intake_value": 44,
+      "Target_achieved_calories_intake": 3,
+      "Total_calories_burned": 55,
+      "Target_calories_burned": 33,
+      "Target_achieved_calories_burned": 22,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d4abd0bd3bc25005f77f1",
+      "createDate": "2023-07-07",
+      "name": "rani s",
+      "Total_calories_intake": null,
+      "Target_calories_intake_value": 43,
+      "Target_achieved_calories_intake": null,
+      "Total_calories_burned": null,
+      "Target_calories_burned": null,
+      "Target_achieved_calories_burned": null,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d4afc0bd3bc25005f77f6",
+      "createDate": "2023-06-24",
+      "name": "rani s",
+      "Total_calories_intake": 12,
+      "Target_calories_intake_value": 34,
+      "Target_achieved_calories_intake": 5,
+      "Total_calories_burned": 6,
+      "Target_calories_burned": 2,
+      "Target_achieved_calories_burned": 1,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649d4b3a0bd3bc25005f77fa",
+      "createDate": "2023-06-17",
+      "name": "rani s",
+      "Total_calories_intake": 1111,
+      "Target_calories_intake_value": null,
+      "Target_achieved_calories_intake": null,
+      "Total_calories_burned": null,
+      "Target_calories_burned": null,
+      "Target_achieved_calories_burned": null,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649ebe35a91a64074f1b1f29",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 550,
+      "Target_achieved_calories_burned": 0,
+      "user": "649d27bc3d50795c818739b6"
+    },
+    {
+      "_id": "649ebe3aa91a64074f1b1f2b",
+      "Total_calories_intake": 22,
+      "Target_calories_intake_value": 33,
+      "Target_achieved_calories_intake": 23,
+      "Total_calories_burned": 44,
+      "Target_calories_burned": 550,
+      "Target_achieved_calories_burned": 0,
+      "user": "649d27bc3d50795c818739b6"
     }
   ]
 }
